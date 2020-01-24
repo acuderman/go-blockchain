@@ -1,4 +1,4 @@
-### Simple blockchain implementation
+### WIP: Blockchain
 
 Implemented:
 - Simple blockchain functionality

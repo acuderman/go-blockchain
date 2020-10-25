@@ -1,5 +1,5 @@
 ### WIP: Blockchain
 
 Implemented:
-- Simple blockchain functionality
+- Basic blockchain functionality
 - Proof of work alghoritm
